@@ -26,7 +26,7 @@ export function Hero() {
             <p className="lg:text-lg">Oferecemos os melhores serviços para garantir o bem-estar e a felicidade de seu amigo de quatro patas.</p>
 
 
-            <a href=""
+            <a href={'https://wa.me/5551999999999?text= Olá, gostaria de agendar um serviço com PetLovers!'}
               className="bg-green-500 px-5 py-2 rounded-md hover:bg-green-600 transition-all font-semibold flex items-center justify-center w-fit gap-2"
             >
               < WhatsappLogoIcon className="w-5 h-5" />
