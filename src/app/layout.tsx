@@ -1,7 +1,9 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import { AosInit } from "./_components/aosInnit";
+import { AosInit } from "./_components/aosInnit"
+
+
 
 
 const geistSans = Geist({
@@ -17,6 +19,7 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Pet Lovers ❤️",
   description: "Cuidando de seus pets com carinho e dedicação",
+  
 };
 
 export default function RootLayout({

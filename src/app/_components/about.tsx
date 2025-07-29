@@ -39,8 +39,8 @@ export function About() {
                     <h2 className="text-4xl font-bold">SOBRE</h2>
 
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                        Quisquam, repellat. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consequuntur odit alias similique repellendus accusantium doloribus ipsum, ut eum amet dolore provident. Esse similique quas iste doloribus non amet explicabo dolorum?
+                        Na Pet Lovers, acreditamos que pets são parte da família. Por isso, oferecemos produtos e serviços com carinho, qualidade e respeito.
+                        Somos apaixonados por animais e buscamos sempre o bem-estar de cães, gatos e seus tutores. Aqui, seu pet encontra tudo o que precisa — e muito amor envolvido. ❤️
                     </p>
 
                     <ul className="space-y-4">
