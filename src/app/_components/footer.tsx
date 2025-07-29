@@ -50,9 +50,11 @@ export function Footer() {
                 </div>
                 <footer className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 pb-12 mt-5">
                     <div>
-                        <h3>PetLovers petshop</h3>
+                        <h3 className="text-2xl font-semibold mb-2" >PetLovers petshop</h3>
                         <p>Cuidando do seu melhor amigo</p>
-                        <a href={'https://wa.me/5551999999999?text= Olá, gostaria de agendar um serviço com PetLovers!'}
+                        <a 
+                        target="_blank"
+                        href={'https://wa.me/5551999999999?text= Olá, gostaria de agendar um serviço com PetLovers!'}
                             className="bg-green-500 px-4 py-2 rounded-md hover:bg-green-600 transition-all font-semibold flex items-center justify-center w-fit gap-2 mt-4"
                         >
                             Contato via whatsapp
@@ -60,7 +62,7 @@ export function Footer() {
                     </div>
                     <div>
                         <h3 className="text-2xl font-semibold mb-2">Contatos</h3>
-                        <p>Email : 2rVdE@example.com</p>
+                        <p>Email : email@example.com</p>
                         <p>Telefone: (11) 99999-9999</p>
                         <p>Rua x x, Bairro y, Cidade z - SP</p>
                     </div>
