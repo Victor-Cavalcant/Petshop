@@ -35,7 +35,7 @@ export function About() {
                     </div>
                 </div>
 
-                <div className="space-y-6 mt-10"data-aos="fade-left">
+                <div className="space-y-6 mt-10"data-aos="fade-up">
                     <h2 className="text-4xl font-bold">SOBRE</h2>
 
                     <p>
